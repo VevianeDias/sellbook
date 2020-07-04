@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SellbookApplication<sellbook>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.edu.usj.ads.lpii.sellbook.SellbookApplication",
+            "projectName": "sellbook",
+            "args": ""
+        }
+    ]
+}
